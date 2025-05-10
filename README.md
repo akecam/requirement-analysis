@@ -173,4 +173,103 @@ Non-functional requirements specify **how the system should perform**. They addr
 5. System sends a booking confirmation email within 2 minutes of booking.
 6. Booking details are saved and visible in the user's booking history.
 7. No bookings should be allowed for unavailable or already booked dates.
+## ✅ Acceptance Criteria
+
+**Acceptance Criteria** are a set of predefined requirements that must be met for a feature or functionality to be considered complete and acceptable by stakeholders. They serve as the benchmark for validating that the software behaves as intended.
+
+### 🔍 Importance of Acceptance Criteria
+
+- **Clarifies Requirements:** Ensures that everyone (developers, testers, and stakeholders) has a clear understanding of what a feature should do.
+- **Improves Testability:** Provides a basis for writing test cases and conducting validation checks.
+- **Reduces Rework:** Helps detect issues early by setting expectations before development begins.
+- **Enhances Communication:** Aligns the team and stakeholders on the definition of “done” for a feature.
+
+### 🛒 Example: Checkout Feature in Booking Management System
+
+**Feature:** Users can book a property and complete the checkout process.
+
+**Acceptance Criteria:**
+
+1. User must be logged in to perform a checkout.
+2. User selects available property and booking dates.
+3. System displays booking summary including property details, dates, and total cost.
+4. User confirms booking by clicking the “Confirm Booking” button.
+5. System sends a booking confirmation email within 2 minutes of booking.
+6. Booking details are saved and visible in the user's booking history.
+7. No bookings should be allowed for unavailable or already booked dates.
+
+## ✅ Acceptance Criteria
+
+**Acceptance Criteria** are a set of predefined requirements that must be met for a feature or functionality to be considered complete and acceptable by stakeholders. They serve as the benchmark for validating that the software behaves as intended.
+
+### 🔍 Importance of Acceptance Criteria
+
+- **Clarifies Requirements:** Ensures that everyone (developers, testers, and stakeholders) has a clear understanding of what a feature should do.
+- **Improves Testability:** Provides a basis for writing test cases and conducting validation checks.
+- **Reduces Rework:** Helps detect issues early by setting expectations before development begins.
+- **Enhances Communication:** Aligns the team and stakeholders on the definition of “done” for a feature.
+
+### 🛒 Example: Checkout Feature in Booking Management System
+
+**Feature:** Users can book a property and complete the checkout process.
+
+**Acceptance Criteria:**
+
+1. User must be logged in to perform a checkout.
+2. User selects available property and booking dates.
+3. System displays booking summary including property details, dates, and total cost.
+4. User confirms booking by clicking the “Confirm Booking” button.
+5. System sends a booking confirmation email within 2 minutes of booking.
+6. Booking details are saved and visible in the user's booking history.
+7. No bookings should be allowed for unavailable or already booked dates.
+
+## ✅ Acceptance Criteria
+
+**Acceptance Criteria** are a set of predefined requirements that must be met for a feature or functionality to be considered complete and acceptable by stakeholders. They serve as the benchmark for validating that the software behaves as intended.
+
+### 🔍 Importance of Acceptance Criteria
+
+- **Clarifies Requirements:** Ensures that everyone (developers, testers, and stakeholders) has a clear understanding of what a feature should do.
+- **Improves Testability:** Provides a basis for writing test cases and conducting validation checks.
+- **Reduces Rework:** Helps detect issues early by setting expectations before development begins.
+- **Enhances Communication:** Aligns the team and stakeholders on the definition of “done” for a feature.
+
+### 🛒 Example: Checkout Feature in Booking Management System
+
+**Feature:** Users can book a property and complete the checkout process.
+
+**Acceptance Criteria:**
+
+1. User must be logged in to perform a checkout.
+2. User selects available property and booking dates.
+3. System displays booking summary including property details, dates, and total cost.
+4. User confirms booking by clicking the “Confirm Booking” button.
+5. System sends a booking confirmation email within 2 minutes of booking.
+6. Booking details are saved and visible in the user's booking history.
+7. No bookings should be allowed for unavailable or already booked dates.
+
+## ✅ Acceptance Criteria
+
+**Acceptance Criteria** are a set of predefined requirements that must be met for a feature or functionality to be considered complete and acceptable by stakeholders. They serve as the benchmark for validating that the software behaves as intended.
+
+### 🔍 Importance of Acceptance Criteria
+
+- **Clarifies Requirements:** Ensures that everyone (developers, testers, and stakeholders) has a clear understanding of what a feature should do.
+- **Improves Testability:** Provides a basis for writing test cases and conducting validation checks.
+- **Reduces Rework:** Helps detect issues early by setting expectations before development begins.
+- **Enhances Communication:** Aligns the team and stakeholders on the definition of “done” for a feature.
+
+### 🛒 Example: Checkout Feature in Booking Management System
+
+**Feature:** Users can book a property and complete the checkout process.
+
+**Acceptance Criteria:**
+
+1. User must be logged in to perform a checkout.
+2. User selects available property and booking dates.
+3. System displays booking summary including property details, dates, and total cost.
+4. User confirms booking by clicking the “Confirm Booking” button.
+5. System sends a booking confirmation email within 2 minutes of booking.
+6. Booking details are saved and visible in the user's booking history.
+7. No bookings should be allowed for unavailable or already booked dates.
 
