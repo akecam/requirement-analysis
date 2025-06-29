@@ -142,3 +142,12 @@ Non-functional requirements specify **how the system should perform**. They addr
 5. System sends a booking confirmation email within 2 minutes of booking.
 6. Booking details are saved and visible in the user's booking history.
 7. No bookings should be allowed for unavailable or already booked dates.
+
+
+### Use Case Diagram
+
+A use-case diagram is a visual representation of the interactions between users (actors) and a system. It shows the different ways users can interact with the system to achieve specific goals. This diagram clearly separates responsibilities while showing critical integrations with external systems (payment/OAuth). The structure follows standard UML conventions for readability and scalability.
+
+
+![features_and_functionalities_1_](https://github.com/user-attachments/assets/8bba7e8a-78d6-4b64-9e5b-04711ae921e9)
+
