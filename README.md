@@ -20,9 +20,9 @@ This repository serves as a comprehensive guide and reference for understanding 
 - Types of Requirements:
   - Functional Requirements
   - Non-functional Requirements
-- Use Case Diagrams
 - Acceptance Criteria
 - Step-by-step Guide to Conduct Requirement Analysis
+- Use Case Diagrams
 
 ## ❓ What is Requirement Analysis?
 
@@ -144,7 +144,7 @@ Non-functional requirements specify **how the system should perform**. They addr
 7. No bookings should be allowed for unavailable or already booked dates.
 
 
-### Use Case Diagram
+## Use Case Diagram
 
 A use-case diagram is a visual representation of the interactions between users (actors) and a system. It shows the different ways users can interact with the system to achieve specific goals. This diagram clearly separates responsibilities while showing critical integrations with external systems (payment/OAuth). The structure follows standard UML conventions for readability and scalability.
 
